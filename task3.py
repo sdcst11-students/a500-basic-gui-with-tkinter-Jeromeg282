@@ -16,6 +16,6 @@ label3=tk.Label(window, text="Poachacco!",)
 label1.place(x=0,y=100)
 label2.place(x=70, y=0)
 label3.place(x=135, y=40)
-
+#use grid method
 
 window.mainloop()
